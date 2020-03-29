@@ -1,0 +1,10 @@
+.item-list ul li {
+list-style: none;
+}
+.item-list .list-group-item {
+cursor: pointer;
+color: #000;
+}
+.item-list .list-group-item:hover {
+background-color: #444;
+}
